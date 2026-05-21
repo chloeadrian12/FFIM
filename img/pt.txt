@@ -1,0 +1,10 @@
+./img/img/000000.png,./img/masks/000000.png,A closeup of a large stop sign in the bushes.,A wooden bench in the bushes.
+./img/img/000001.png,./img/masks/000001.png,Pizza on a cutting board is next to goblets with a beer bottle.,Sandwich on a cutting board is next to goblets with a beer bottle.
+./img/img/000016.png,./img/masks/000016.png,A small dog looking at a larger dog.,A small sheep looking at a dog.
+./img/img/000017.png,./img/masks/000017.png,Large stuffed bear sitting outside of a building.,Large vase standing outside of a building.
+./img/img/000047.png,./img/masks/000047.png,A red pick up truck with a plow blade drives down a snowy suburban road.,A red pick up bus drives down a snowy suburban road.
+./img/img/000061.png,./img/masks/000061.png,A lady hold a game controller and pointed towards a laptop.,A lady hold a game controller and pointed towards a keyboard.
+./img/img/000745.png,./img/masks/000745.png,Two orange roses in a small vase with water.,Two red roses in a small vase with water.
+./img/img/000930.png,./img/masks/000930.png,A black and white cat wearing a little purple hat.,A black dog wearing a little purple hat.
+./img/img/001094.png,./img/masks/001094.png,Small girl in green shirt holding a slice of pizza to her face.,Small girl in blue shirt holding a slice of pizza to her face. 
+./img/img/001142.png,./img/masks/001142.png,A black cat sitting inside a bathroom sink.,A black dog sitting inside a bathroom sink.
