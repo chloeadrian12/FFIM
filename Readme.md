@@ -9,6 +9,7 @@ An official implementation code for paper "Forensic-Friendly Image Manipulation 
 * [Requirements](#Requirements)
 * [Usage](#Usage)
 * [Citation](#Citation)
+* [License](#License)
 
 ---
 
@@ -47,3 +48,10 @@ If you use this code for your research, please cite the reference:
   year={2026},
 }
 ```
+## License
+
+This project is released under the Apache License 2.0. See [LICENSE](LICENSE) for details.
+
+The Stable Diffusion model and the surrogate model are not included in this repository. Users should download them from their official sources and comply with their respective licenses.
+
+
