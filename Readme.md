@@ -41,11 +41,13 @@ python FFIM.py
 If you use this code for your research, please cite the reference:
 
 ```
-@inproceedings{ffim,
-  title={Forensic-Friendly Image Manipulation via Controllable Latent Diffusion},
-  author={H. Chen and H. Wu and J. Tian and J. Li and J. Zhou},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},  
-  year={2026},
+@InProceedings{Chen_2026_CVPR,
+    author    = {Chen, Hanyu and Wu, Haiwei and Tian, Jinyu and LI, Jianqing and Zhou, Jiantao},
+    title     = {Forensic-Friendly Image Manipulation via Controllable Latent Diffusion},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {35394-35404}
 }
 ```
 ## License
